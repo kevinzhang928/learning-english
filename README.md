@@ -169,8 +169,11 @@
 - [English with Emma](https://www.youtube.com/@engvidEmma) - 交一些美式日常英语，地道表达等等
 - [EnglishAnyone](https://www.youtube.com/@EnglishAnyone) - 利用课堂板书教授流利口语技巧，快速提升方法
 - [English Like A Native](https://www.youtube.com/@EnglishLikeANative) - 英式发音教学，文化习语讲解
+- [ARC English](https://www.youtube.com/@arcenglish) - 专注于帮助中高级英语学习者突破瓶颈
+- [Wannaspeak by Veroniq](https://www.youtube.com/@wannaspeakbyveroniq) - 专注于英语（及多语言）学习策略与心态建设的YouTube频道
 - [Learn English with Papa Teach Me](https://www.youtube.com/@EnglishLikeANative) - 家庭式教学风格，生动有趣的讲解
 - [E2 IELTS](https://www.youtube.com/@E2IELTS) - IELTS考试技巧
+- [Professor Lao](https://www.youtube.com/@profe_lao) - 真实美式英语教学的 YouTube 频道
 - [ABC Learning English](https://www.youtube.com/@ABCLearningEnglish) - 发布各种学习英语的素材
 - [English Speeches](https://www.youtube.com/@EnglishSpeeches/featured) - 各种带字幕的英语演讲
 - [终身学外语](https://www.youtube.com/@practicemakesfluent) - 提供各种适合反复听的英语对话练习
