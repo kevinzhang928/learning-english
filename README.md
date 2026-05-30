@@ -407,6 +407,8 @@
 - [ESL Bits](https://esl-bits.eu/home.html) - 提供丰富的英语有声书全集
 - [FineDictionary](https://www.finedictionary.com/) - 一个小众充满文艺范的英语词典网站
 - [World's Radio](https://www.worldsradio.com/) - 收录了全球多个外语电台
+- [英语台词社](https://www.taicishe.com/) - 收录海量电影和美剧的台词
+- [Ultra Land 翻译之战](https://ultraland.app/zh-CN) - 玩家将外语句子翻译成英语（或根据模式），与全球其他玩家竞争
 
 ## 社交媒体
 
