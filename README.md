@@ -494,6 +494,7 @@
 - [NCE Flow](https://github.com/luzhenhua/NCE-Flow) - 很实用的新概念英语在线点读工具
 - [WordPecker App](https://github.com/baturyilmaz/wordpecker-app) - Duolingo风格的交互式英语学习工具
 - [MuJing](https://github.com/tangshimin/MuJing) - 通过电影、美剧或文档中的真实语境学习英语单词的应用
+- [Comic Translate](https://github.com/ogkalu2/comic-translate) - 一个自动翻译漫画的开源项目
 ## 适合应试
 
 适合单纯为了应付考试而学习的英语🧐
